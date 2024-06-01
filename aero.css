@@ -1,0 +1,19 @@
+
+.navbar-nav .nav-link:hover {
+    color: blue; /* Change this to your desired color */
+  }
+  
+body{
+    background-image: url('./images/background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+p{
+    background-color: white;
+    text-align  : center;
+  }
+  .image-container {
+    margin-top: 5%;
+    }
+  
